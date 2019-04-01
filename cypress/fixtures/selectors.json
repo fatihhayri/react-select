@@ -17,6 +17,8 @@
   "menuSingle": "#basic-select-single .react-select__menu",
   "singleSelectSingleInput": "#react-select-basic-select-single-input",
   "toggleMenuSingle": "#basic-select-single .react-select__dropdown-indicator",
+  "multiValueLabel": "#multi-select .react-select__multi-value__label",
+  "multiValueRemove": "#multi-select .react-select__multi-value__remove",
   "firstMultiValueRemove": "#multi-select .react-select__multi-value__remove:first",
   "menuMulti": "#multi-select .react-select__menu",
   "multiSelectDefaultValues": "#multi-select .react-select__multi-value",
